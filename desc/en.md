@@ -1,1 +1,1 @@
-EverForest Color Palette for FlorisBoard 0.4.6
+EverForest Color Palette for FlorisBoard v0.4.6 and v0.5.2
